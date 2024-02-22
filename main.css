@@ -1,0 +1,83 @@
+.jumbotron{
+    text-align: center;
+    background:none;
+    font-weight: bolder;
+}
+.sectionLight{
+    background-color: rgb(249, 241, 241);
+    padding: 2em ;
+}
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.guitarWrapper{
+    margin-top: 20px;
+}
+button.guitarButton{
+    background-color: rgb(224, 106, 42);
+    color:whitesmoke;
+    display: block;
+    margin: auto;
+}
+.carousel-inner:hover{
+    -webkit-box-shadow: -1px 3px 25px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 3px 25px 11px rgba(0,0,0,0.75);
+    box-shadow: -1px 3px 25px 11px rgba(0,0,0,0.75);
+   transition: 0.5s;
+}
+h5.modal-title{
+    margin: auto;
+    font-weight: bolder;
+}
+.modalFormWrapper{
+    padding: 2rem;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+}
+.imgCenter:hover{
+    -webkit-box-shadow: 0px 0px 31px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 31px -6px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 31px -6px rgba(0,0,0,0.75);
+    transition: 0.5s;
+}
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top:15px ;
+    margin-bottom: 20px;
+    width: 67%;
+}
+.embed-responsive-item.guitarVideos{
+display: block;
+margin: auto;
+padding: 10px;
+width: 100%;
+height: 300px;
+}
+.footerImg{
+    padding: 10px;
+}
+.fa{
+    margin: 10px;
+
+}
+.fa-square-facebook{
+    color: #3a5c9c;
+    margin-right: 15px;
+
+}
+.fa-tiktok{
+    color: #80ffff;
+    margin-right: 15px;
+
+}
+.fa-instagram{
+    color: #ff8080;
+
+}
+.socialWrapper{
+    margin: auto;
+}
